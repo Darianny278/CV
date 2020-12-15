@@ -16,15 +16,15 @@ div#PicandName{
    background-color: rgb(46, 38, 38);
 
 }
-/*div#foto{
+div#foto{
     float: left;
     width: 230px;
    height: 250px;
    background-color: rgb(46, 38, 38);
-}*/
+}
 div#name{
      float: left;
-    width: 610px;
+    width: 380px;
    height: 250px;
    background-color:rgb(46, 38, 38);
 }
